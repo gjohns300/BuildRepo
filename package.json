@@ -1,0 +1,21 @@
+{
+  "name": "cw2-node",
+  "version": "1.0.0",
+  "description": "cw2 server node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gjohns300/BuildServer/"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "gjohns300@caledonian.ac.uk",
+  "license": "ISC"
+}
